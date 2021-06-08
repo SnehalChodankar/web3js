@@ -1,3 +1,9 @@
+# web3js
+This project is reactjs based. It shows possible usage of web3js transactions/functions through simple button clicks.
+This means that we don't need matamask to sign the transactions.
+
+------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
