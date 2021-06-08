@@ -2,6 +2,11 @@
 This project is reactjs based. It shows possible usage of web3js transactions/functions through simple button clicks.
 This means that we don't need matamask to sign the transactions.
 
+# How to use
+Clone the project repository on your local desktop and the through cmd go to the directory where folder is present and execute the command: <b>npm install</b><br/>
+Once it is completed, you can simple execute command: npm start
+
+
 ------------------------------------------------------------
 
 # Getting Started with Create React App
